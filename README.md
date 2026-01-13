@@ -131,3 +131,5 @@ It highlights the practical application of NLP techniques in solving accessibili
 ---
 
 ## 📁 Repository Structure
+├── Project (1).ipynb # Main evaluation notebook
+├── README.md # Project documentation
